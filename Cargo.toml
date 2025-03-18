@@ -17,3 +17,4 @@ vulkanalia = { version = "=0.28.0", features = [
     "window",
 ] }
 winit = "0.29"
+multimap = "0.10.0"
